@@ -1,0 +1,16 @@
+body{
+    background: pink;
+}
+
+h1,h2{
+    text-align: center;
+}
+
+}
+.bio{
+    font-weight: bold;
+}
+
+.info{
+    font-family: "Arial", sans-serif;
+}
