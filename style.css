@@ -25,3 +25,7 @@ img{
 video{
     height: 400px;
 }
+
+#datetime{
+    font-weight: bold;
+}
